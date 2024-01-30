@@ -15,6 +15,7 @@ try{
 
 	System.out.println("total sum is"+c);
 	}
+	///bcjndcbwkc
 catch(Exception e)
 {
 

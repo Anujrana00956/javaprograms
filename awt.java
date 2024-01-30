@@ -14,7 +14,7 @@ Frame f = new Frame();
         f.setVisible(true);           //set frame visibility true.  
     }  
   
-  
+  //sdbdcnc
 public static void main(String[] args) {  
 // TODO Auto-generated method stub  
   

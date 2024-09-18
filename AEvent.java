@@ -15,7 +15,7 @@ b.setBounds(100,120,80,30);
   //register listener  
 b.addActionListener(this);
 add(b);
-
+////sdvsccv
 setSize(300,300);  
 setLayout(null);  
 setVisible(true);  
@@ -29,3 +29,4 @@ public static void main(String args[])
 new AEvent();  
 }  
 }  
+//////ascdsnjghsdjbsjb sdnxjksahchsd
